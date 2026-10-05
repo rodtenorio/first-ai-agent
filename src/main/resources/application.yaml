@@ -6,5 +6,4 @@ spring:
       api-key: ${OPENROUTER_API_KEY}
       chat:
         base-url: https://openrouter.ai/api/v1
-        # model: anthropic/claude-sonnet-5.5
         model: openai/gpt-5-mini
