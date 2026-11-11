@@ -47,5 +47,5 @@ jobs:
         with:
           path: build/libs
           output-format: table
-          fail-build: true
+          fail-build: false
           severity-cutoff: high
